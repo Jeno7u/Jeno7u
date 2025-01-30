@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">A fullstek student</h3>
 
-- 🌱 I’m currently learning **Django, Go, C++**
+- 🌱 I’m currently learning **Django, Go, C++ and doing codeforce stuff** 
 
 - 📫 How to reach me **lboris201@yandex.ru**
 
