@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">A software engineer student from Russia</h3>
 
-- 🌱 I’m currently learning **Django, Go, C++ and doing codeforce stuff** 
+- 🌱 I’m currently learning **C++, C#, JavaScript, HTML, CSS and competitive programming** 
 
 - 📫 How to reach me **lboris201@yandex.ru**
 
