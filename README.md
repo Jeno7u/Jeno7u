@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Boris</h1>
 <h3 align="center">A software engineer student from Russia</h3>
 
-- 🌱 I’m currently learning **C++, C#, JavaScript, HTML, CSS and competitive programming** 
+- 🌱 I’m currently learning **Go, C++, C#, JavaScript, React, Vue and competitive programming** 
 
 - 📫 How to reach me **lboris201@yandex.ru**
+
+- 👤 You can check my [resume](Mironov_Boris_Resume.pdf)!
 
 
 <h3 align="left">Languages and Tools:</h3>
